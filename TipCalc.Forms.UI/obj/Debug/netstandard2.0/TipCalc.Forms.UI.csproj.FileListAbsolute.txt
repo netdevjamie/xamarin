@@ -1,0 +1,15 @@
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/bin/Debug/netstandard2.0/TipCalc.Forms.UI.deps.json
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/bin/Debug/netstandard2.0/TipCalc.Forms.UI.dll
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/bin/Debug/netstandard2.0/TipCalc.Forms.UI.pdb
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/bin/Debug/netstandard2.0/TipCalc.Core.dll
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/bin/Debug/netstandard2.0/TipCalc.Core.pdb
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.csprojAssemblyReference.cache
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/FormsApp.xaml.g.cs
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/Pages/TipView.xaml.g.cs
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.csproj.CoreCompileInputs.cache
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.AssemblyInfoInputs.cache
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.AssemblyInfo.cs
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.csproj.CopyComplete
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.dll
+/Users/localadmin/Projects/TipCalc/TipCalc.Forms.UI/obj/Debug/netstandard2.0/TipCalc.Forms.UI.pdb

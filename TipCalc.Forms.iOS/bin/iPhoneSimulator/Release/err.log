@@ -1,0 +1,31 @@
+MonoTouch: Could not install sigaction override, unexpected sigaction implementation.
+2018-12-18 12:18:12.416451-0500 TipCalc.Forms.iOS[16004:381115] SecTaskLoadEntitlements failed error=22 cs_flags=200, pid=16004
+2018-12-18 12:18:12.416890-0500 TipCalc.Forms.iOS[16004:381115] SecTaskCopyDebugDescription: TipCalc.Forms.iO[16004]/0#-1 LF=0
+2018-12-18 12:18:12.700679-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Primary start
+2018-12-18 12:18:12.701032-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: FirstChance start
+2018-12-18 12:18:12.701247-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: PlatformServices start
+2018-12-18 12:18:12.859208-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: MvvmCross settings start
+2018-12-18 12:18:12.859612-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Singleton Cache start
+2018-12-18 12:18:12.860090-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: ViewDispatcher start
+2018-12-18 12:18:12.877274-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Bootstrap actions
+2018-12-18 12:18:12.888292-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: StringToTypeParser start
+2018-12-18 12:18:12.891450-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: CommandHelper start
+2018-12-18 12:18:12.892231-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: PluginManagerFramework start
+2018-12-18 12:18:12.937515-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Create App
+2018-12-18 12:18:12.940548-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: NavigationService
+2018-12-18 12:18:12.945097-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Load navigation routes
+2018-12-18 12:18:12.947130-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: App start
+2018-12-18 12:18:12.947726-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Application Initialize - On background thread
+2018-12-18 12:18:12.949108-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: ViewModelTypeFinder start
+2018-12-18 12:18:12.953402-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: ViewsContainer start
+2018-12-18 12:18:12.954555-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Views start
+2018-12-18 12:18:12.967015-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: CommandCollectionBuilder start
+2018-12-18 12:18:12.967407-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: NavigationSerializer start
+2018-12-18 12:18:12.967893-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: InpcInterception start
+2018-12-18 12:18:12.968078-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: InpcInterception start
+2018-12-18 12:18:12.968865-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:12 [TRACE] (MvvmCross.Core.MvxSetup) Setup: LastChance start
+2018-12-18 12:18:13.034470-0500 TipCalc.Forms.iOS[16004:381341] 2018-12-18 12:18:13 [TRACE] (MvvmCross.Core.MvxSetup) Setup: Secondary end
+2018-12-18 12:18:13.038049-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:13 [TRACE] (MvvmCross.Logging.MvxLog) AppStart: Application Startup - On UI thread
+2018-12-18 12:18:13.077634-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:13 [TRACE] (MvvmCross.Logging.MvxLog) iOSNavigation
+2018-12-18 12:18:13.081866-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:13 [TRACE] (MvxForms) PresentationAttribute not found for TipViewModel. Assuming ContentPage presentation
+2018-12-18 12:18:13.087963-0500 TipCalc.Forms.iOS[16004:381115] 2018-12-18 12:18:13 [TRACE] (MvxForms) Showing of native host View in Forms is not supported.

@@ -1,0 +1,2 @@
+android.app.Application
+com.xamarin.TipCalc_Forms_Droid

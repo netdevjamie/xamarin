@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{6AD06713-0DE9-40F6-A9F3-EA08238C2D22}|Default">
+  <MonoDevelop.Ide.ItemProperties.TipCalc.Forms.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.nexus" />
+  <MonoDevelop.Ide.ItemProperties.TipCalc.Forms.iOS FirstBuild="True" automaticSigning="False" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TipCalc.Forms.iOS/Info.plist">
+    <Files>
+      <File FileName="TipCalc.Forms.Droid/Resources/values/styles.xml" Line="41" Column="13" />
+      <File FileName="TipCalc.Forms.Droid/MainActivity.cs" Line="3" Column="18" />
+      <File FileName="TipCalc.Forms.Droid/obj/Debug/android/manifest/AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="TipCalc.Forms.UI/Pages/TipView.xaml" Line="31" Column="24" />
+      <File FileName="TipCalc.Forms.iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="TipCalc.Forms.iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
